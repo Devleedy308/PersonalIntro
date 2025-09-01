@@ -29,12 +29,6 @@ p {
     font-size: 1.1rem;
 }
 
-p:first-letter {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: #e74c3c;
-}
-
 footer {
     text-align: center;
     padding: 1rem;
